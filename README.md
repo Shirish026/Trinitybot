@@ -64,6 +64,8 @@ https://www.python.org/downloads/
      ```shell
     pip install torch
 
+9. Ensure all the Python scripts are at one accessible location when accessing the chatbot
+
 ## Usage of Google Dialogflow mentioned in Thesis
 
 ### Prerequisites
