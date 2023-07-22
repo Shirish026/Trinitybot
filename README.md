@@ -30,7 +30,7 @@ TrinityBot has shown satisfactory accuracy results and a brief potential future 
 
 1. Clone this repository to your local machine using the following command:
     ```shell
-    git clone https://github.com/your-username/thesis-paper.git
+    git clone https://github.com/your-username/Trinitybot.git
 
 2. Install the necessary dependencies by running the following command:
     ```shell
